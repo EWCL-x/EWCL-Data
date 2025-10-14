@@ -13,7 +13,7 @@
     "ewcl_p3_score_range": {
       "min": 0.12,
       "max": 0.22,
-      "mean": 0.176
+      "mean": 0.18
     }
   },
   "benchmarks": [
