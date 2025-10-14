@@ -1,0 +1,25 @@
+{
+  "dataset": "binding",
+  "model_version": "EWCLv1",
+  "metrics": {
+    "total_proteins": 1,
+    "total_residues": 5,
+    "average_binding_probability": 0.80,
+    "ewcl_score_range": {
+      "min": 0.15,
+      "max": 0.25,
+      "mean": 0.20
+    },
+    "ewcl_p3_score_range": {
+      "min": 0.12,
+      "max": 0.22,
+      "mean": 0.176
+    }
+  },
+  "benchmarks": [
+    "CAID",
+    "IDEAL",
+    "MobiDB"
+  ],
+  "description": "Binding site predictions with per-residue EWCL scores"
+}

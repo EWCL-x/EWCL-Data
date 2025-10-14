@@ -1,0 +1,6 @@
+protein_id,residue_number,residue_type,ewcl_score,ewcl_p3_score,disorder_probability,source_database
+R13579,1,M,0.55,0.60,0.85,DisProt
+R13579,2,K,0.60,0.65,0.88,DisProt
+R13579,3,P,0.75,0.80,0.95,DisProt
+R13579,4,Q,0.70,0.75,0.92,DisProt
+R13579,5,S,0.58,0.63,0.86,DisProt

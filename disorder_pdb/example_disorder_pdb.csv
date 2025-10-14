@@ -1,0 +1,6 @@
+protein_id,pdb_id,residue_number,residue_type,ewcl_score,ewcl_p3_score,disorder_probability,structural_source
+Q67890,1ABC,1,M,0.65,0.70,0.90,X-ray
+Q67890,1ABC,2,S,0.70,0.75,0.92,X-ray
+Q67890,1ABC,3,T,0.68,0.72,0.88,X-ray
+Q67890,1ABC,4,D,0.72,0.76,0.94,X-ray
+Q67890,1ABC,5,E,0.66,0.71,0.89,X-ray
