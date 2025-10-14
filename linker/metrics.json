@@ -1,0 +1,25 @@
+{
+  "dataset": "linker",
+  "model_version": "EWCLv1",
+  "metrics": {
+    "total_proteins": 1,
+    "total_residues": 5,
+    "average_linker_probability": 0.764,
+    "average_flexibility_score": 0.81,
+    "ewcl_score_range": {
+      "min": 0.45,
+      "max": 0.52,
+      "mean": 0.482
+    },
+    "ewcl_p3_score_range": {
+      "min": 0.50,
+      "max": 0.57,
+      "mean": 0.532
+    }
+  },
+  "benchmarks": [
+    "IDEAL",
+    "AlphaFold"
+  ],
+  "description": "Flexible linker region predictions with per-residue EWCL scores"
+}

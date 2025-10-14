@@ -1,0 +1,6 @@
+protein_id,residue_number,residue_type,ewcl_score,ewcl_p3_score,binding_probability,disorder_score
+P12345,1,M,0.15,0.12,0.85,0.10
+P12345,2,A,0.20,0.18,0.80,0.15
+P12345,3,K,0.25,0.22,0.75,0.20
+P12345,4,L,0.18,0.16,0.82,0.12
+P12345,5,V,0.22,0.20,0.78,0.18
