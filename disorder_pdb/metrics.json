@@ -8,12 +8,12 @@
     "ewcl_score_range": {
       "min": 0.65,
       "max": 0.72,
-      "mean": 0.68
+      "mean": 0.682
     },
     "ewcl_p3_score_range": {
       "min": 0.70,
       "max": 0.76,
-      "mean": 0.73
+      "mean": 0.728
     }
   },
   "structural_sources": [
